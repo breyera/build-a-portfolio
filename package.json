@@ -1,0 +1,27 @@
+{
+  "name": "build-a-portfolio",
+  "version": "1.0.0",
+  "description": "build a portfolio using inquirer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breyera/build-a-portfolio.git"
+  },
+  "keywords": [
+    "inquirer",
+    "node",
+    "javascript"
+  ],
+  "author": "breyera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breyera/build-a-portfolio/issues"
+  },
+  "homepage": "https://github.com/breyera/build-a-portfolio#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
